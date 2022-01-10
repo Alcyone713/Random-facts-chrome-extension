@@ -1,0 +1,17 @@
+body {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(242, 221, 255);
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: rgb(35, 35, 61);
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
